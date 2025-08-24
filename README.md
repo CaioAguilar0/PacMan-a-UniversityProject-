@@ -5,8 +5,8 @@ A classic Pacman implementation built with C++ for university coursework.
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/CaioAguilar0/PacMan-a-UniversityProject-.git
-cd PacMan-a-UniversityProject-
+git clone https://github.com/CaioAguilar0/Pacman-game.git
+cd Pacman-game
 # Compile and run (adjust based on your build system)
 g++ -o pacman *.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ./pacman
